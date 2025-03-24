@@ -1,0 +1,7 @@
+INFO: La aplicación se ha iniciado correctamente.
+WARNING: Espacio en disco bajo.
+ERROR: No se pudo conectar a la base de datos.WARNING
+INFO: Reintentando conexión... ERROR
+ERROR: Conexión fallida después de 3 intentos. INFO
+WARNING: Se está utilizando configuración por defecto.
+INFO: La aplicación se está ejecutando normalmente.
